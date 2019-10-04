@@ -1,0 +1,12 @@
+{
+  "name": "@smith-ai/smith-actions",
+  "version": "1.0.0",
+  "description": "NPM package used for creating integrations with the Mr Smith virtual assistant",
+  "main": "index.js",
+  "repository": "https://github.com/smith-ai/smith-actions",
+  "author": "https://github.com/smith-ai",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
